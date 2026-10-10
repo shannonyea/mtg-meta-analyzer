@@ -499,6 +499,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/9/c/9c93313b-cf43-47e9-a911-717b4d14b0b5.jpg?1783940042",
 		"artist": "Tyler Jacobson"
 	},
+	"Aethermage's Touch": {
+		"normal": "https://cards.scryfall.io/normal/front/5/d/5debdea2-538f-405b-87b0-3789dba95e8e.jpg?1783943406",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5debdea2-538f-405b-87b0-3789dba95e8e.jpg?1783943406",
+		"artist": "Randy Gallegos"
+	},
 	"Aethersphere Harvester": {
 		"normal": "https://cards.scryfall.io/normal/front/4/1/4160bb5f-4b49-4535-94f5-776d7abd1d1a.jpg?1783936732",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/1/4160bb5f-4b49-4535-94f5-776d7abd1d1a.jpg?1783936732",
@@ -14404,6 +14409,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/6/2/622a6523-3b12-4657-a656-00a57a3ae59c.jpg?1783944522",
 		"artist": "Lars Grant-West"
 	},
+	"Extrapolate the Impossible": {
+		"normal": "https://cards.scryfall.io/normal/front/a/2/a20f408a-87b2-4ee3-a1b1-520b38f54d9e.jpg?1790136365",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a20f408a-87b2-4ee3-a1b1-520b38f54d9e.jpg?1790136365",
+		"artist": "Sam Chivers"
+	},
 	"Extravagant Replication": {
 		"normal": "https://cards.scryfall.io/normal/front/4/5/4576b8a6-f950-4975-bc35-a44f89e72aa8.jpg?1783923326",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/5/4576b8a6-f950-4975-bc35-a44f89e72aa8.jpg?1783923326",
@@ -15888,6 +15898,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/6/1/6165de5d-57f0-419b-95a1-02bd53e5a0c5.jpg?1783943701",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/6/1/6165de5d-57f0-419b-95a1-02bd53e5a0c5.jpg?1783943701",
 		"artist": "Ron Spears"
+	},
+	"Flickering Hound": {
+		"normal": "https://cards.scryfall.io/normal/front/4/a/4ac7452d-92b0-4532-96ed-a510a354b31f.jpg?1790136325",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4ac7452d-92b0-4532-96ed-a510a354b31f.jpg?1790136325",
+		"artist": "Justin Hernandez & Alexis Hernandez"
 	},
 	"Flickering Ward": {
 		"normal": "https://cards.scryfall.io/normal/front/d/4/d4d2b011-bb0d-463c-bf2a-04b6650771a3.jpg?1783946667",
@@ -21369,6 +21384,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1b0fe46d-08d6-48c3-be0d-650d8d3d66af.jpg?1783944164",
 		"artist": "Mark Tedin"
 	},
+	"Identity Echo": {
+		"normal": "https://cards.scryfall.io/normal/front/3/a/3ab341a1-525d-4493-b4d1-a4c025649205.jpg?1790136470",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3ab341a1-525d-4493-b4d1-a4c025649205.jpg?1790136470",
+		"artist": "Maria Jesus Contreras"
+	},
 	"Idol of Oblivion": {
 		"normal": "https://cards.scryfall.io/normal/front/d/a/daed8456-011e-44e2-b180-6a8a75089257.jpg?1783932793",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/a/daed8456-011e-44e2-b180-6a8a75089257.jpg?1783932793",
@@ -25529,6 +25549,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/8/d8ddab06-aff7-4c40-bcaa-10cbfe899dd9.jpg?1783945029",
 		"artist": "Heather Hudson"
 	},
+	"Long Feng, Grand Secretariat": {
+		"normal": "https://cards.scryfall.io/normal/front/a/3/a3eb92fe-bc59-4472-9028-f368bd015609.jpg?1783904924",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a3eb92fe-bc59-4472-9028-f368bd015609.jpg?1783904924",
+		"artist": "Robin Har"
+	},
 	"Long Goodbye": {
 		"normal": "https://cards.scryfall.io/normal/front/b/1/b12a8889-1323-4268-b34c-146c4136fd53.jpg?1783912767",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/b/1/b12a8889-1323-4268-b34c-146c4136fd53.jpg?1783912767",
@@ -26873,6 +26898,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/f/b/fb82fa95-e2a7-412b-8dbe-051223160233.jpg?1783903555",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fb82fa95-e2a7-412b-8dbe-051223160233.jpg?1783903555",
 		"artist": "Liiga Smilshkalne"
+	},
+	"Matoya, Archon Elder": {
+		"normal": "https://cards.scryfall.io/normal/front/0/4/0429bba6-d496-49ac-b849-fb8274f86880.jpg?1783906487",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/0/4/0429bba6-d496-49ac-b849-fb8274f86880.jpg?1783906487",
+		"artist": "Luisa J. Preissler"
 	},
 	"Matt Murdock, Justice Seeker": {
 		"normal": "https://cards.scryfall.io/normal/front/a/b/ab8e5c5d-e6a0-4666-930a-0a1f475d3c2e.jpg?1783903080",
@@ -32998,6 +33028,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/1/e/1edb449d-620f-4e21-9d76-2c840635eb9d.jpg?1783903688",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1edb449d-620f-4e21-9d76-2c840635eb9d.jpg?1783903688",
 		"artist": "Elizabeth Peiró"
+	},
+	"Proctor of Potential": {
+		"normal": "https://cards.scryfall.io/normal/front/c/f/cf0eec8c-0475-4050-8144-481a9bb13a0f.jpg?1789127661",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cf0eec8c-0475-4050-8144-481a9bb13a0f.jpg?1789127661",
+		"artist": "Andrey Kuzinskiy"
 	},
 	"Proctor's Gaze": {
 		"normal": "https://cards.scryfall.io/normal/front/b/1/b127d543-0a90-4af6-9410-94d5cd30389e.jpg?1783903636",
@@ -44569,6 +44604,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab0cee38-5e24-49d0-870c-22843ed4e101.jpg?1783937507",
 		"artist": "Magali Villeneuve"
 	},
+	"Thalia, the Survivor": {
+		"normal": "https://cards.scryfall.io/normal/front/8/0/80226231-9e70-430e-aabc-f262f70b9226.jpg?1789127700",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/8/0/80226231-9e70-430e-aabc-f262f70b9226.jpg?1789127700",
+		"artist": "Ryan Pancoast"
+	},
 	"Thalia's Lancers": {
 		"normal": "https://cards.scryfall.io/normal/front/9/9/9930d08d-5965-4c16-a84d-43c8ccf2ad0b.jpg?1783937507",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/9/9/9930d08d-5965-4c16-a84d-43c8ccf2ad0b.jpg?1783937507",
@@ -47583,6 +47623,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/7/6/76bacedb-9fa8-4a21-b0eb-e7ead64360b4.jpg?1783942011",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76bacedb-9fa8-4a21-b0eb-e7ead64360b4.jpg?1783942011",
 		"artist": "Todd Lockwood"
+	},
+	"Ulamog's Nullifier": {
+		"normal": "https://cards.scryfall.io/normal/front/a/c/acd482ad-ca4a-470f-8a76-14ec7b58316a.jpg?1783938181",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/a/c/acd482ad-ca4a-470f-8a76-14ec7b58316a.jpg?1783938181",
+		"artist": "Aleksi Briclot"
 	},
 	"Ulcerate": {
 		"normal": "https://cards.scryfall.io/normal/front/2/e/2e06e6c8-05c0-4d87-9961-605b888bc794.jpg?1783939179",
