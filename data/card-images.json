@@ -8974,6 +8974,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/9/6/96837a9e-dd68-4ce8-b760-0e1c22837164.jpg?1783946830",
 		"artist": "Adrian Smith"
 	},
+	"Cruel Calculations": {
+		"normal": "https://cards.scryfall.io/normal/front/f/7/f76c4d8e-3e1f-4264-99af-1b8adb9a06be.jpg?1789127482",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f76c4d8e-3e1f-4264-99af-1b8adb9a06be.jpg?1789127482",
+		"artist": "Lindsey Look"
+	},
 	"Cruel Celebrant": {
 		"normal": "https://cards.scryfall.io/normal/front/8/7/87ead6ac-b1c5-4852-8413-7fa43c6cfc57.jpg?1783933402",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/8/7/87ead6ac-b1c5-4852-8413-7fa43c6cfc57.jpg?1783933402",
@@ -11344,6 +11349,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/1/9/1958d96e-ec44-48ab-80b1-5b01a24ac7b8.jpg?1783927380",
 		"artist": "Liiga Smilshkalne"
 	},
+	"Divining Duelist": {
+		"normal": "https://cards.scryfall.io/normal/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.jpg?1789556709",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.jpg?1789556709",
+		"artist": "David Auden Nash"
+	},
 	"Divining Witch": {
 		"normal": "https://cards.scryfall.io/normal/front/b/e/be981eef-9dd2-4233-82c9-03f9f2e82c59.jpg?1783945828",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/b/e/be981eef-9dd2-4233-82c9-03f9f2e82c59.jpg?1783945828",
@@ -12753,6 +12763,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/7/8/78ee2013-29dc-4879-9d59-1b492996d297.jpg?1783911429",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/7/8/78ee2013-29dc-4879-9d59-1b492996d297.jpg?1783911429",
 		"artist": "Hristo D. Chukov"
+	},
+	"Eldrazi Conscription": {
+		"normal": "https://cards.scryfall.io/normal/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.jpg?1783942013",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.jpg?1783942013",
+		"artist": "Jaime Jones"
 	},
 	"Eldrazi Devastator": {
 		"normal": "https://cards.scryfall.io/normal/front/0/4/04b13e32-01b9-4a86-a3df-ca8b784c6a6c.jpg?1783938225",
@@ -19559,6 +19574,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/0/2/02fdc551-0b22-49f4-8765-143ad82f16a3.jpg?1783927354",
 		"artist": "Forrest Imel"
 	},
+	"Hall of Echoes": {
+		"normal": "https://cards.scryfall.io/normal/front/4/a/4a771010-b397-4849-ac9b-08e4dd5d6a72.jpg?1789644859",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4a771010-b397-4849-ac9b-08e4dd5d6a72.jpg?1789644859",
+		"artist": "Leon Tukker"
+	},
 	"Hall of Gemstone": {
 		"normal": "https://cards.scryfall.io/normal/front/1/8/18e4551f-9f6c-4421-ad66-a270df6d3463.jpg?1783947064",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/1/8/18e4551f-9f6c-4421-ad66-a270df6d3463.jpg?1783947064",
@@ -20203,6 +20223,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/4/f/4fe4000f-e7aa-48e7-a0be-8cc1c2698ad0.jpg?1783906339",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4fe4000f-e7aa-48e7-a0be-8cc1c2698ad0.jpg?1783906339",
 		"artist": "HAIKEI"
+	},
+	"Helix Pinnacle": {
+		"normal": "https://cards.scryfall.io/normal/front/9/c/9c1121df-b03e-4ad9-8c45-c3b4066e4a39.jpg?1783942680",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/9/c/9c1121df-b03e-4ad9-8c45-c3b4066e4a39.jpg?1783942680",
+		"artist": "Dan Murayama Scott"
 	},
 	"Hell Mongrel": {
 		"normal": "https://cards.scryfall.io/normal/front/f/7/f7da32a3-8e33-4603-abd2-8db144062f6a.jpg?1783926860",
@@ -23264,6 +23289,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a8c2d370-982d-4b1b-b9b3-371b08121b1f.jpg?1783917971",
 		"artist": "Jason A. Engle"
 	},
+	"Kasmina, Enigma Sage": {
+		"normal": "https://cards.scryfall.io/normal/front/3/9/3980caa1-6771-40cb-8a21-0b0f309af1a2.jpg?1783927132",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/3/9/3980caa1-6771-40cb-8a21-0b0f309af1a2.jpg?1783927132",
+		"artist": "Tyler Jacobson"
+	},
 	"Kassandra, Eagle Bearer": {
 		"normal": "https://cards.scryfall.io/normal/front/d/7/d7016d0a-0352-4955-86af-949cf6ba6a3f.jpg?1783910941",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d7016d0a-0352-4955-86af-949cf6ba6a3f.jpg?1783910941",
@@ -25777,6 +25807,11 @@
 	"Lovestruck Beast": {
 		"normal": "https://cards.scryfall.io/normal/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.jpg?1783932607",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.jpg?1783932607",
+		"artist": "Kev Walker"
+	},
+	"Loxodon Hierarch": {
+		"normal": "https://cards.scryfall.io/normal/front/a/1/a1d3ccca-8040-4a5f-9f2b-6fdb1a033234.jpg?1783943619",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a1d3ccca-8040-4a5f-9f2b-6fdb1a033234.jpg?1783943619",
 		"artist": "Kev Walker"
 	},
 	"Loxodon Lifechanter": {
@@ -31554,6 +31589,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aac00055-640e-4749-8d23-d242e6d0b23a.jpg?1783930701",
 		"artist": "Izzy"
 	},
+	"Peer Past the Veil": {
+		"normal": "https://cards.scryfall.io/normal/front/8/7/874eadb6-602e-47dc-8094-82e37ac89c94.jpg?1783909439",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/8/7/874eadb6-602e-47dc-8094-82e37ac89c94.jpg?1783909439",
+		"artist": "Tuan Duong Chu"
+	},
 	"Peer Through Depths": {
 		"normal": "https://cards.scryfall.io/normal/front/9/b/9be02570-b840-46cc-af54-5279463fdcab.jpg?1783944323",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9be02570-b840-46cc-af54-5279463fdcab.jpg?1783944323",
@@ -35484,6 +35524,16 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df7bdf15-9448-4cb0-a809-c5ac128e6b02.jpg?1787202738",
 		"artist": "Kevin Sidharta"
 	},
+	"Rhox Faithmender": {
+		"normal": "https://cards.scryfall.io/normal/front/8/5/85ea185a-7b38-49f3-be73-be8180fb6295.jpg?1783940514",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/8/5/85ea185a-7b38-49f3-be73-be8180fb6295.jpg?1783940514",
+		"artist": "Wesley Burt"
+	},
+	"Rhox War Monk": {
+		"normal": "https://cards.scryfall.io/normal/front/1/9/19fb67e1-b791-4246-aebc-49fcf0f92c6c.jpg?1783942541",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/1/9/19fb67e1-b791-4246-aebc-49fcf0f92c6c.jpg?1783942541",
+		"artist": "Dan Dos Santos"
+	},
 	"Rhuk, Hexgold Nabber": {
 		"normal": "https://cards.scryfall.io/normal/front/d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1783917920",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1783917920",
@@ -38314,6 +38364,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/2/8/288b0976-78e8-4fbe-8607-2e55d8761d3e.jpg?1783946368",
 		"artist": "Dermot Power"
 	},
+	"Serra Avenger": {
+		"normal": "https://cards.scryfall.io/normal/front/9/e/9e9d7c1c-3bfd-4705-9bc2-5ca3f84cc32a.jpg?1783943249",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9e9d7c1c-3bfd-4705-9bc2-5ca3f84cc32a.jpg?1783943249",
+		"artist": "Scott M. Fischer"
+	},
 	"Serra Paragon": {
 		"normal": "https://cards.scryfall.io/normal/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1783921359",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1783921359",
@@ -40864,6 +40919,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/5/3/5326d251-bb91-4653-b1fa-44f14c4e0b88.jpg?1783934562",
 		"artist": "Volkan Baǵa"
 	},
+	"Sovereigns of Lost Alara": {
+		"normal": "https://cards.scryfall.io/normal/front/2/d/2d2a9e7e-649f-457b-aba7-9c74c2704adf.jpg?1783942440",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d2a9e7e-649f-457b-aba7-9c74c2704adf.jpg?1783942440",
+		"artist": "Donato Giancola"
+	},
 	"Sower of Temptation": {
 		"normal": "https://cards.scryfall.io/normal/front/2/f/2f5320da-7214-4348-84d8-74bf951c9f2f.jpg?1783942897",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2f5320da-7214-4348-84d8-74bf951c9f2f.jpg?1783942897",
@@ -42159,6 +42219,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b203ad5d-d8b7-49e6-81ca-fbbbe3fa8722.jpg?1783903556",
 		"artist": "Cristi Balanescu"
 	},
+	"Stirring Wildwood": {
+		"normal": "https://cards.scryfall.io/normal/front/d/5/d556d10b-83cc-4736-b269-4ce65aae2837.jpg?1783942035",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d556d10b-83cc-4736-b269-4ce65aae2837.jpg?1783942035",
+		"artist": "Eric Deschamps"
+	},
 	"Stitch in Time": {
 		"normal": "https://cards.scryfall.io/normal/front/8/0/80ee9c0d-c0ac-4c75-b254-77329dc42366.jpg?1783943470",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/8/0/80ee9c0d-c0ac-4c75-b254-77329dc42366.jpg?1783943470",
@@ -42719,6 +42784,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b6472b1e-3033-4084-96fe-b82353958975.jpg?1783904734",
 		"artist": "Tky"
 	},
+	"Sulfur Elemental": {
+		"normal": "https://cards.scryfall.io/normal/front/4/9/49cba6fd-2474-400d-8568-33fe447abc7c.jpg?1783943146",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/4/9/49cba6fd-2474-400d-8568-33fe447abc7c.jpg?1783943146",
+		"artist": "Dave Kendall"
+	},
 	"Sulfur Falls": {
 		"normal": "https://cards.scryfall.io/normal/front/4/9/4968b65d-50e5-4d7e-b78b-cdada1cbf7a7.jpg?1783940894",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/9/4968b65d-50e5-4d7e-b78b-cdada1cbf7a7.jpg?1783940894",
@@ -42758,6 +42828,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/4/5/45308e0e-b515-49ac-9960-a24e898dd321.jpg?1783907283",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/5/45308e0e-b515-49ac-9960-a24e898dd321.jpg?1783907283",
 		"artist": "Julian Kok Joon Wen"
+	},
+	"Summary Dismissal": {
+		"normal": "https://cards.scryfall.io/normal/front/0/b/0b75794d-3334-4b4d-9446-0a251dd3bd15.jpg?1783937493",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0b75794d-3334-4b4d-9446-0a251dd3bd15.jpg?1783937493",
+		"artist": "Igor Kieryluk"
 	},
 	"Summer Bloom": {
 		"normal": "https://cards.scryfall.io/normal/front/3/5/35d78f4e-d95d-49bc-9971-06a68a4e35fd.jpg?1783946980",
@@ -44548,6 +44623,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/5/6/56f54fee-b48d-4582-8982-ca4c7b8ef553.jpg?1783903685",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/5/6/56f54fee-b48d-4582-8982-ca4c7b8ef553.jpg?1783903685",
 		"artist": "Josiah \"Jo\" Cameron"
+	},
+	"Teyo, Lightshield Expert": {
+		"normal": "https://cards.scryfall.io/normal/front/5/f/5f7521d7-9f1f-4f03-b2ea-dd2a1b1e4e5b.jpg?1789471515",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5f7521d7-9f1f-4f03-b2ea-dd2a1b1e4e5b.jpg?1789471515",
+		"artist": "Anna Steinbauer"
 	},
 	"Teysa, Opulent Oligarch": {
 		"normal": "https://cards.scryfall.io/normal/front/9/b/9b5a13dd-c2fd-432e-bc49-cc62d94d62a0.jpg?1783912836",
