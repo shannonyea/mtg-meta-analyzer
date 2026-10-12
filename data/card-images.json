@@ -23049,6 +23049,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1783929400",
 		"artist": "Cliff Childs"
 	},
+	"Jwari Shapeshifter": {
+		"normal": "https://cards.scryfall.io/normal/front/5/8/587f91f6-b46e-4dd5-a86d-1048054dd3c0.jpg?1783942061",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/5/8/587f91f6-b46e-4dd5-a86d-1048054dd3c0.jpg?1783942061",
+		"artist": "Kev Walker"
+	},
 	"K-9, Mark I": {
 		"normal": "https://cards.scryfall.io/normal/front/e/9/e9ab508a-db3d-42d1-885a-d49fa751dc18.jpg?1783914259",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9ab508a-db3d-42d1-885a-d49fa751dc18.jpg?1783914259",
@@ -49073,6 +49078,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/c/5/c50e0950-e1ef-4c5c-b758-e707ef026d54.jpg?1783942396",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c50e0950-e1ef-4c5c-b758-e707ef026d54.jpg?1783942396",
 		"artist": "Michael Komarck"
+	},
+	"Vexing Arcanix": {
+		"normal": "https://cards.scryfall.io/normal/front/0/c/0c9ea118-6a19-4e1b-aa5a-9b2729efc096.jpg?1783947454",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0c9ea118-6a19-4e1b-aa5a-9b2729efc096.jpg?1783947454",
+		"artist": "Randy Gallegos"
 	},
 	"Vexing Bauble": {
 		"normal": "https://cards.scryfall.io/normal/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1783911242",
