@@ -174,6 +174,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/0/40eee689-2514-421a-8056-eb7668be66ff.jpg?1783913735",
 		"artist": "Victor Adame Minguez"
 	},
+	"Abuelo's Awakening": {
+		"normal": "https://cards.scryfall.io/normal/front/f/9/f93b725e-2b9c-4830-ac54-b2562afe09bb.jpg?1783913817",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f93b725e-2b9c-4830-ac54-b2562afe09bb.jpg?1783913817",
+		"artist": "Eelis Kyttanen"
+	},
 	"Abundance": {
 		"normal": "https://cards.scryfall.io/normal/front/f/6/f6d051fa-bd3a-4c94-ae41-34d89a7bb77d.jpg?1783946322",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/f/6/f6d051fa-bd3a-4c94-ae41-34d89a7bb77d.jpg?1783946322",
@@ -3609,6 +3614,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/8/4/84e4a224-2db7-47d0-ba8b-98aeb50ad5d3.jpg?1783942428",
 		"artist": "Steve Prescott"
 	},
+	"Behind the Mask": {
+		"normal": "https://cards.scryfall.io/normal/front/e/5/e522b043-fbd8-48a4-9f20-39e2a66a35ec.jpg?1783912917",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e522b043-fbd8-48a4-9f20-39e2a66a35ec.jpg?1783912917",
+		"artist": "Caio Monteiro"
+	},
 	"Behold the Beyond": {
 		"normal": "https://cards.scryfall.io/normal/front/a/0/a0be5f0e-da1e-4cdb-9b31-c2c2b153be86.jpg?1783937671",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a0be5f0e-da1e-4cdb-9b31-c2c2b153be86.jpg?1783937671",
@@ -4899,6 +4909,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/0/e/0e790851-f0f7-4f1a-80e6-94be649499b6.jpg?1783931078",
 		"artist": "Chris Rahn"
 	},
+	"Boon-Bringer Valkyrie": {
+		"normal": "https://cards.scryfall.io/normal/front/8/0/802cc901-ae12-45e0-a9cf-e505c3a21dd1.jpg?1783916899",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/8/0/802cc901-ae12-45e0-a9cf-e505c3a21dd1.jpg?1783916899",
+		"artist": "Heonhwa"
+	},
 	"Borborygmos Enraged": {
 		"normal": "https://cards.scryfall.io/normal/front/8/6/8644c60f-7d06-4026-bcf3-df054701ca0a.jpg?1783940112",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/8/6/8644c60f-7d06-4026-bcf3-df054701ca0a.jpg?1783940112",
@@ -5188,6 +5203,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/0/1/013cefb7-a059-45c2-81b0-187f35aac4a2.jpg?1783904415",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/0/1/013cefb7-a059-45c2-81b0-187f35aac4a2.jpg?1783904415",
 		"artist": "Jesper Ejsing"
+	},
+	"Breach the Multiverse": {
+		"normal": "https://cards.scryfall.io/normal/front/e/e/ee99acde-796c-423b-81ed-13d33e210925.jpg?1783916892",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/e/ee99acde-796c-423b-81ed-13d33e210925.jpg?1783916892",
+		"artist": "Liiga Smilshkalne"
 	},
 	"Breaching Dragonstorm": {
 		"normal": "https://cards.scryfall.io/normal/front/e/2/e2c2a069-7553-4879-abfb-b2aa3349e4b8.jpg?1783907366",
@@ -7138,6 +7158,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/9/9/99ff640a-9403-4b16-ade2-758f0650c540.jpg?1783937642",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99ff640a-9403-4b16-ade2-758f0650c540.jpg?1783937642",
 		"artist": "Vincent Proce"
+	},
+	"Choking Miasma": {
+		"normal": "https://cards.scryfall.io/normal/front/b/a/ba537452-3dab-4ecd-b65f-9e311a130d31.jpg?1783921335",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba537452-3dab-4ecd-b65f-9e311a130d31.jpg?1783921335",
+		"artist": "Inka Schulz"
 	},
 	"Choking Sands": {
 		"normal": "https://cards.scryfall.io/normal/front/e/4/e41c15fb-01a1-446e-9e88-71e8e95d9bce.jpg?1783947095",
@@ -16789,6 +16814,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d142ded-a2df-41b0-9c02-056b5f34abab.jpg?1783916991",
 		"artist": "Andreas Zafiratos"
 	},
+	"Furnace Reins": {
+		"normal": "https://cards.scryfall.io/normal/front/e/9/e91bfea6-0e80-4239-bede-7cb971e64c1a.jpg?1783916991",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e91bfea6-0e80-4239-bede-7cb971e64c1a.jpg?1783916991",
+		"artist": "Brian Valeza"
+	},
 	"Furnace Strider": {
 		"normal": "https://cards.scryfall.io/normal/front/a/a/aa625ab0-1e79-4497-a5da-98fe1abfd024.jpg?1783918030",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aa625ab0-1e79-4497-a5da-98fe1abfd024.jpg?1783918030",
@@ -22183,6 +22213,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/3/1/318c363b-61cc-4e2f-8f86-a4287539ea07.jpg?1783951955",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/1/318c363b-61cc-4e2f-8f86-a4287539ea07.jpg?1783951955",
 		"artist": "Mathias Kollros"
+	},
+	"Invasion of Arcavios": {
+		"normal": "https://cards.scryfall.io/normal/front/1/c/1c3f661d-b9f7-48e7-afe3-3eaea1022bc1.jpg?1783917042",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/1/c/1c3f661d-b9f7-48e7-afe3-3eaea1022bc1.jpg?1783917042",
+		"artist": "Dmitry Burmak"
 	},
 	"Invasion of Ergamon": {
 		"normal": "https://cards.scryfall.io/normal/front/b/3/b3e0fc49-f765-4bd1-a2b9-23e703388b50.jpg?1783916953",
@@ -28268,6 +28303,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/3/f/3f50b5f5-8dac-4785-b1af-a0bd64ce7a92.jpg?1783945978",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/f/3f50b5f5-8dac-4785-b1af-a0bd64ce7a92.jpg?1783945978",
 		"artist": "Christopher Moeller"
+	},
+	"Moment of Triumph": {
+		"normal": "https://cards.scryfall.io/normal/front/0/8/08be8c18-eca3-4960-b174-e4a78579ed63.jpg?1783935336",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/0/8/08be8c18-eca3-4960-b174-e4a78579ed63.jpg?1783935336",
+		"artist": "Steven Belledin"
 	},
 	"Moment of Truth": {
 		"normal": "https://cards.scryfall.io/normal/front/0/e/0e758594-a48c-4508-b400-9028aec07f63.jpg?1783917033",
@@ -35439,6 +35479,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/6/36f7d663-115c-4ad0-a072-633df054cce4.jpg?1783940662",
 		"artist": "Christopher Moeller"
 	},
+	"Revenge of the Rats": {
+		"normal": "https://cards.scryfall.io/normal/front/1/f/1f463c55-39a0-4f2f-aae3-0c5540bde5b7.jpg?1783909109",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1f463c55-39a0-4f2f-aae3-0c5540bde5b7.jpg?1783909109",
+		"artist": "Filipe Pagliuso"
+	},
 	"Reverberate": {
 		"normal": "https://cards.scryfall.io/normal/front/d/d/dd435013-0ab9-42f4-985c-66ea2b3760e9.jpg?1783941802",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd435013-0ab9-42f4-985c-66ea2b3760e9.jpg?1783941802",
@@ -39779,6 +39824,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3c4862ed-7be8-4fd0-9150-a20e56d1e858.jpg?1783917962",
 		"artist": "Sidharth Chaturvedi"
 	},
+	"Skrelv's Hive": {
+		"normal": "https://cards.scryfall.io/normal/front/f/f/ffbd77ec-fc81-41d5-934f-c3dd844cb053.jpg?1783918072",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ffbd77ec-fc81-41d5-934f-c3dd844cb053.jpg?1783918072",
+		"artist": "Heonhwa"
+	},
 	"Skulking Ghost": {
 		"normal": "https://cards.scryfall.io/normal/front/f/8/f8ca7e96-0545-4f36-85c0-944d5c0b760a.jpg?1783947088",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/f/8/f8ca7e96-0545-4f36-85c0-944d5c0b760a.jpg?1783947088",
@@ -43489,6 +43539,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/6/1/61d08a91-665e-458c-9b8f-4ebd5f54a0d6.jpg?1783944416",
 		"artist": "Mark Zug"
 	},
+	"Sword of Once and Future": {
+		"normal": "https://cards.scryfall.io/normal/front/1/6/1670393d-86f0-46fb-b577-f73a1da2a3ed.jpg?1783916934",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/1/6/1670393d-86f0-46fb-b577-f73a1da2a3ed.jpg?1783916934",
+		"artist": "Joshua Cairos"
+	},
 	"Sword of Sinew and Steel": {
 		"normal": "https://cards.scryfall.io/normal/front/c/0/c081e5cf-81e2-4afb-a912-8267de29e88d.jpg?1783933073",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c081e5cf-81e2-4afb-a912-8267de29e88d.jpg?1783933073",
@@ -43968,6 +44023,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/1/a/1a906132-19ab-4b7c-95de-08f8a5fa3aea.jpg?1783911405",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1a906132-19ab-4b7c-95de-08f8a5fa3aea.jpg?1783911405",
 		"artist": "Filipe Pagliuso"
+	},
+	"Tarnation Vista": {
+		"normal": "https://cards.scryfall.io/normal/front/9/6/962552a1-ec34-49e2-a23d-85dfb405d5e0.jpg?1783911995",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/9/6/962552a1-ec34-49e2-a23d-85dfb405d5e0.jpg?1783911995",
+		"artist": "Alayna Danner"
 	},
 	"Tarnished Citadel": {
 		"normal": "https://cards.scryfall.io/normal/front/3/0/30375d24-ccfe-47a2-babd-1bda0a6298fe.jpg?1783945196",
@@ -52008,6 +52068,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1783947454",
 		"artist": "Sandra Everingham"
+	},
+	"Zurgo and Ojutai": {
+		"normal": "https://cards.scryfall.io/normal/front/e/a/eacbcd82-36e6-424c-bd4e-ec3a584836c5.jpg?1783916936",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/a/eacbcd82-36e6-424c-bd4e-ec3a584836c5.jpg?1783916936",
+		"artist": "Daarken"
 	},
 	"Zurgo Bellstriker": {
 		"normal": "https://cards.scryfall.io/normal/front/b/b/bbac6d75-59ab-4d7d-87ae-46875abf8cc7.jpg?1783938583",

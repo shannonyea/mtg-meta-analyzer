@@ -7054,5 +7054,21 @@
     "tabletop": false,
     "pairings": true,
     "path": "2026-01/mtgo-12828143.json"
+  },
+  {
+    "id": "melee-310364",
+    "name": "Regional Championship - T9",
+    "cleanName": "Regional Championship - T9",
+    "date": "2025-05-31",
+    "format": "Standard",
+    "source": "melee",
+    "url": "https://melee.gg/Tournament/View/310364",
+    "playerCount": 137,
+    "roundCount": 11,
+    "matchCount": 489,
+    "importance": "premier",
+    "tabletop": true,
+    "pairings": true,
+    "path": "2025-05/melee-310364.json"
   }
 ]
