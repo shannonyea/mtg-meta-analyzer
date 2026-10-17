@@ -1,5 +1,21 @@
 [
   {
+    "id": "melee-482105",
+    "name": "MTG SEA Championship Final 2026-27 Round 1",
+    "cleanName": "MTG SEA Championship Final 2026-27 Round 1",
+    "date": "2026-10-17",
+    "format": "Modern",
+    "source": "melee",
+    "url": "https://melee.gg/Tournament/View/482105",
+    "playerCount": 184,
+    "roundCount": 1,
+    "matchCount": 92,
+    "importance": "other",
+    "tabletop": true,
+    "pairings": true,
+    "path": "2026-10/melee-482105.json"
+  },
+  {
     "id": "videre-12856574",
     "name": "Modern Challenge 64",
     "cleanName": "Challenge 64",
