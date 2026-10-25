@@ -32,6 +32,22 @@
     "path": "2026-10/videre-12856973.json"
   },
   {
+    "id": "melee-414849",
+    "name": "ANZ Super Series Cycle 13 Regional Championships - Sydney",
+    "cleanName": "ANZ Super Series Cycle 13 Regional Championships - Sydney",
+    "date": "2026-10-23",
+    "format": "Modern",
+    "source": "melee",
+    "url": "https://melee.gg/Tournament/View/414849",
+    "playerCount": 233,
+    "roundCount": 12,
+    "matchCount": 812,
+    "importance": "other",
+    "tabletop": true,
+    "pairings": true,
+    "path": "2026-10/melee-414849.json"
+  },
+  {
     "id": "videre-12856958",
     "name": "Modern Challenge 32",
     "cleanName": "Challenge 32",
