@@ -5244,6 +5244,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f7094fc0-1d26-429c-9b49-37718c4a5c80.jpg?1783915136",
 		"artist": "Miranda Meeks"
 	},
+	"Break Under Pressure": {
+		"normal": "https://cards.scryfall.io/normal/front/4/6/46974d94-e900-43e4-92b5-4fb9b9f7cf46.jpg?1789385622",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46974d94-e900-43e4-92b5-4fb9b9f7cf46.jpg?1789385622",
+		"artist": "Jeff Miracola"
+	},
 	"Breaker of Creation": {
 		"normal": "https://cards.scryfall.io/normal/front/7/2/72449552-aa2c-4ae3-846f-df523c5e6078.jpg?1783911311",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/7/2/72449552-aa2c-4ae3-846f-df523c5e6078.jpg?1783911311",
@@ -32309,6 +32314,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d5ac39e8-bd0e-4fa3-bc1e-a93944d013f3.jpg?1783946597",
 		"artist": "Rebecca Guay"
 	},
+	"Pinecone Strike": {
+		"normal": "https://cards.scryfall.io/normal/front/e/a/ea174cea-40e5-424e-9734-e39aae6c6b17.jpg?1785496194",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea174cea-40e5-424e-9734-e39aae6c6b17.jpg?1785496194",
+		"artist": "Javier Charro"
+	},
 	"Pinnacle Emissary": {
 		"normal": "https://cards.scryfall.io/normal/front/3/c/3c922347-f05f-40a4-bbee-6bc02a1e0de5.jpg?1783905924",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3c922347-f05f-40a4-bbee-6bc02a1e0de5.jpg?1783905924",
@@ -49728,6 +49738,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/8/d/8d90bd68-0521-4db3-b590-a4e007da9f2e.jpg?1783938191",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8d90bd68-0521-4db3-b590-a4e007da9f2e.jpg?1783938191",
 		"artist": "Yeong-Hao Han"
+	},
+	"Volcano Hellion": {
+		"normal": "https://cards.scryfall.io/normal/front/0/2/026b1a54-ab62-431d-a23e-5890d3932c7e.jpg?1783943145",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/0/2/026b1a54-ab62-431d-a23e-5890d3932c7e.jpg?1783943145",
+		"artist": "Wayne Reynolds"
 	},
 	"Voldaren Bloodcaster": {
 		"normal": "https://cards.scryfall.io/normal/front/9/3/9371077d-c6be-4b78-9557-d66b141791d6.jpg?1783924669",
