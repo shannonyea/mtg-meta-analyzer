@@ -10519,6 +10519,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/1/4/148ce683-3911-4b77-9e07-3985766a3777.jpg?1783945219",
 		"artist": "Jeff Remmer"
 	},
+	"Deep Space 9": {
+		"normal": "https://cards.scryfall.io/normal/front/7/6/76b039c5-e0a1-410a-954b-52f304e31f7f.jpg?1792508419",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76b039c5-e0a1-410a-954b-52f304e31f7f.jpg?1792508419",
+		"artist": "Paolo Puggioni"
+	},
 	"Deep-Cavern Bat": {
 		"normal": "https://cards.scryfall.io/normal/front/6/9/69c68c95-b788-43b1-9f22-1b22c5a00b25.jpg?1783913780",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69c68c95-b788-43b1-9f22-1b22c5a00b25.jpg?1783913780",
@@ -24179,6 +24184,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/7/9/797d8cd6-fc6b-4560-9c6f-1a867dfce85a.jpg?1783942135",
 		"artist": "Jason Chan"
 	},
+	"Khan, Vengeful Heart": {
+		"normal": "https://cards.scryfall.io/normal/front/a/6/a6f47b34-02fb-41d2-978a-a6d0a47ee8ba.jpg?1792551016",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6f47b34-02fb-41d2-978a-a6d0a47ee8ba.jpg?1792551016",
+		"artist": "Sam Kennedy"
+	},
 	"Khenra Spellspear": {
 		"normal": "https://cards.scryfall.io/normal/front/d/c/dc1454ce-bb49-4b4f-bbca-d77387fa4966.jpg?1783916992",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc1454ce-bb49-4b4f-bbca-d77387fa4966.jpg?1783916992",
@@ -25598,6 +25608,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/9/d/9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4.jpg?1783925515",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/9/d/9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4.jpg?1783925515",
 		"artist": "Evan Cagle"
+	},
+	"Lieutenant Commander Data": {
+		"normal": "https://cards.scryfall.io/normal/front/e/5/e5484552-37a3-41ef-b618-ee92fb418c85.jpg?1792509239",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e5484552-37a3-41ef-b618-ee92fb418c85.jpg?1792509239",
+		"artist": "Tyler Jacobson"
 	},
 	"Life": {
 		"normal": "https://cards.scryfall.io/normal/front/7/a/7ab75cdb-93a1-4f78-b404-37566295c321.jpg?1783945328",
@@ -47989,6 +48004,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1783948370",
 		"artist": "Anson Maddocks"
 	},
+	"Transwarp Hub": {
+		"normal": "https://cards.scryfall.io/normal/front/4/3/43a7eb3f-5d46-4fd9-8548-684cb90a8ac6.jpg?1793101099",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43a7eb3f-5d46-4fd9-8548-684cb90a8ac6.jpg?1793101099",
+		"artist": "David Frasheski"
+	},
 	"Trapmaker's Snare": {
 		"normal": "https://cards.scryfall.io/normal/front/9/c/9cbc98ab-9f8a-41ed-b368-22f1f4ae594b.jpg?1783942157",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/9/c/9cbc98ab-9f8a-41ed-b368-22f1f4ae594b.jpg?1783942157",
@@ -51128,6 +51148,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/d/7/d7dbeea8-06b0-4482-bdae-aa82b9db8856.jpg?1783946659",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d7dbeea8-06b0-4482-bdae-aa82b9db8856.jpg?1783946659",
 		"artist": "Drew Tucker"
+	},
+	"Warp Speed": {
+		"normal": "https://cards.scryfall.io/normal/front/f/d/fdb5b940-9f62-47ad-8e80-5996daad0c9b.jpg?1793188026",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fdb5b940-9f62-47ad-8e80-5996daad0c9b.jpg?1793188026",
+		"artist": "Raymond Swanland"
 	},
 	"Warped Tusker": {
 		"normal": "https://cards.scryfall.io/normal/front/2/b/2b5f3a1a-8514-4598-be3d-c3be719f6951.jpg?1783911305",
