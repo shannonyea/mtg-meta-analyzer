@@ -1,5 +1,21 @@
 [
   {
+    "id": "melee-471980",
+    "name": "World Championship 32 in Atlanta, USA",
+    "cleanName": "World Championship 32 in Atlanta, USA",
+    "date": "2026-11-13",
+    "format": "Standard",
+    "source": "melee",
+    "url": "https://melee.gg/Tournament/View/471980",
+    "playerCount": 128,
+    "roundCount": 7,
+    "matchCount": 432,
+    "importance": "professional",
+    "tabletop": true,
+    "pairings": true,
+    "path": "2026-11/melee-471980.json"
+  },
+  {
     "id": "videre-12857709",
     "name": "Standard Challenge 32",
     "cleanName": "Challenge 32",
