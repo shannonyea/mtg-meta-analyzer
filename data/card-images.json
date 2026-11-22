@@ -5004,6 +5004,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1783943332",
 		"artist": "Dan Dos Santos"
 	},
+	"Borg Cube": {
+		"normal": "https://cards.scryfall.io/normal/front/e/5/e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc.jpg?1792508285",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc.jpg?1792508285",
+		"artist": "Alexander Forssberg"
+	},
 	"Borne Upon a Wind": {
 		"normal": "https://cards.scryfall.io/normal/front/6/0/60ebd6a8-2e93-40ee-951a-4fcf12c85e3d.jpg?1783916191",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/6/0/60ebd6a8-2e93-40ee-951a-4fcf12c85e3d.jpg?1783916191",
@@ -11809,6 +11814,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4e125e4-103f-4a68-b85f-1382646da71e.jpg?1783928231",
 		"artist": "Johann Bodin"
 	},
+	"Doomwake Giant": {
+		"normal": "https://cards.scryfall.io/normal/front/9/5/95ca8091-5282-4c87-88a8-cc84717e9d41.jpg?1783939464",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95ca8091-5282-4c87-88a8-cc84717e9d41.jpg?1783939464",
+		"artist": "Nils Hamm"
+	},
 	"Doorkeeper Thrull": {
 		"normal": "https://cards.scryfall.io/normal/front/8/0/80a1cd28-d2a5-4d1a-aa03-a6a5958ae432.jpg?1783912925",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/8/0/80a1cd28-d2a5-4d1a-aa03-a6a5958ae432.jpg?1783912925",
@@ -11883,6 +11893,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/3/d/3d715e9f-223d-462e-8ce3-eebbaf1cd021.jpg?1783913769",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d715e9f-223d-462e-8ce3-eebbaf1cd021.jpg?1783913769",
 		"artist": "Olena Richards"
+	},
+	"Dr. Beverly Crusher": {
+		"normal": "https://cards.scryfall.io/normal/front/e/f/ef9c5790-d909-4271-90bd-5fa4816ddd6b.jpg?1784065540",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef9c5790-d909-4271-90bd-5fa4816ddd6b.jpg?1784065540",
+		"artist": "Mattia Rangoni"
 	},
 	"Draco": {
 		"normal": "https://cards.scryfall.io/normal/front/2/1/212e3edb-62f1-4680-884f-70323547f8ad.jpg?1783945602",
@@ -26149,6 +26164,11 @@
 		"art_crop": "https://cards.scryfall.io/art_crop/front/5/7/572feb8c-6976-40a8-8a34-b4db836cca56.jpg?1783906565",
 		"artist": "AKAGI"
 	},
+	"Locket of Yesterdays": {
+		"normal": "https://cards.scryfall.io/normal/front/b/3/b316f198-4465-4fb5-a7a6-a92bf8eae8c1.jpg?1783943198",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b316f198-4465-4fb5-a7a6-a92bf8eae8c1.jpg?1783943198",
+		"artist": "Dany Orizio"
+	},
 	"Locust Spray": {
 		"normal": "https://cards.scryfall.io/normal/front/5/4/54b3a547-6f74-4cb4-ad98-7e1b75f1a120.jpg?1783907893",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/5/4/54b3a547-6f74-4cb4-ad98-7e1b75f1a120.jpg?1783907893",
@@ -30578,6 +30598,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/1/8/18506777-cd69-42f6-99c9-cde9b0958868.jpg?1783946304",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/1/8/18506777-cd69-42f6-99c9-cde9b0958868.jpg?1783946304",
 		"artist": "Andrew Robinson"
+	},
+	"Nog, Ambitious Cadet": {
+		"normal": "https://cards.scryfall.io/normal/front/b/5/b513dd60-8573-467b-9c6a-855a0ba86fca.jpg?1793101384",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b513dd60-8573-467b-9c6a-855a0ba86fca.jpg?1793101384",
+		"artist": "Darren Tan"
 	},
 	"Noggle Robber": {
 		"normal": "https://cards.scryfall.io/normal/front/0/0/0082ca96-10f3-4823-be16-117556b2afc3.jpg?1783904408",
@@ -48783,6 +48808,11 @@
 		"normal": "https://cards.scryfall.io/normal/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784078038",
 		"art_crop": "https://cards.scryfall.io/art_crop/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784078038",
 		"artist": "Pablo Mendoza"
+	},
+	"U.S.S. Voyager, Lone Wanderer": {
+		"normal": "https://cards.scryfall.io/normal/front/a/a/aaf8a0b2-c6cb-41cb-913d-7ae1d75e555d.jpg?1793274284",
+		"art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aaf8a0b2-c6cb-41cb-913d-7ae1d75e555d.jpg?1793274284",
+		"artist": "Hector Ortiz"
 	},
 	"Uba Mask": {
 		"normal": "https://cards.scryfall.io/normal/front/f/a/fa3ecb4e-d08f-4fac-8842-c3e772b95bd5.jpg?1783944275",
